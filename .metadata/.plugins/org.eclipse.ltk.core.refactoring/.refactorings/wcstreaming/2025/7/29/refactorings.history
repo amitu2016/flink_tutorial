@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;p1.WordCountStraeming.java&apos; to &apos;WordCountStreaming.java&apos;&#x0A;- Original project: &apos;reduce&apos;&#x0A;- Original element: &apos;p1.WordCountStraeming.java&apos;&#x0A;- Renamed element: &apos;p1.WordCountStreaming.java&apos;" description="Rename compilation unit &apos;WordCountStraeming.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;p1{WordCountStraeming.java" name="WordCountStreaming.java" references="false" stamp="1752831799825" version="1.0"/>
+</session>
