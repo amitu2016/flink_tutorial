@@ -6,6 +6,10 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/Users/amitupadhyay/Developer/flink_tutorial/dataserver2"/>
+			<item value="/Users/amitupadhyay/Developer/flink_tutorial/wcstreaming"/>
+			<item value="/Users/amitupadhyay/Developer/flink_tutorial/iterateoperator"/>
+			<item value="/Users/amitupadhyay/Developer/flink_tutorial/splitoperation/src/main/java/p1/SplitDemo.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -47,6 +51,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="windows_events"/>
+			<item value="dataserver2"/>
+			<item value="dataserver"/>
+			<item value="windows_process"/>
+			<item value="cab-trip-analysis"/>
+			<item value="iterateoperator"/>
 			<item value="splitoperation"/>
 			<item value="aggregation"/>
 			<item value="reduceoperation"/>
@@ -55,6 +65,12 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="windows_events"/>
+			<item value="dataserver2"/>
+			<item value="dataserver"/>
+			<item value="windows_process"/>
+			<item value="cab-trip-analysis"/>
+			<item value="iterateoperator"/>
 			<item value="splitoperation"/>
 			<item value="aggregation"/>
 			<item value="reduceoperation"/>
